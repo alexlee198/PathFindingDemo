@@ -1,2 +1,2 @@
 # PathFindingDemo
-![](file:///C:/Users/lugdu/Desktop/demogif.gif)
+![](C:/Users/lugdu/Desktop/demogif.gif)
